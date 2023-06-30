@@ -1,0 +1,9 @@
+git status
+git add .
+git commit -m "message"
+git push
+git pull
+git merge master
+git checkout -b nameBranch
+git clone
+git config
